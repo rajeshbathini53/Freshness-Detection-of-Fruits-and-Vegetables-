@@ -102,7 +102,7 @@ git clone https://github.com/rajeshbathini53/Freshness-Detection-of-Fruits-and-V
 
   python main.py
 
-📈 Results
-1.Achieved approximately 85% accuracy
-2.Successfully detects freshness using image-based classification
-3.Provides real-time predictions via GUI
+📈 Results:
+  1.Achieved approximately 85% accuracy
+  2.Successfully detects freshness using image-based classification
+  3.Provides real-time predictions via GUI
